@@ -62,6 +62,7 @@ PRODUCT_PACKAGES += \
     Telecom \
     TeleService \
     Traceur \
+    Updater \
     VpnDialogs \
     vr \
     MmsService
